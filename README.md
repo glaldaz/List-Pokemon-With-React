@@ -4,17 +4,17 @@
 This is a react app that pulls pokemon from the PokeApi(https://pokeapi.co/docs/v2#pokemon) and lists them on the page.
 
 ### Changes I made to the app
-- I pulled data from the PokeApi and liste the first 20 pokemon on 2 paginated pages.
-- I got rid of the search bar and the submit button since I am just listing the itmes
+- I pulled data from the PokeApi and listed the first 20 pokemon on 2 paginated pages.
+- I got rid of the search bar and the submit button since I am just listing the items.
 - I used bootstrap to style the list elements
 
 ## How To Run
 visit https://glaldaz.github.io/List-Pokemon-With-React/ to run the app.
 
 ## Future Improvements
-- Add mor information per pokemon, like the sprite, and height and weight and signature move
-- Style the page more to add color and logos
-- add a longer list of pokemon, the api limits the number pulled by default, but I could put more work into getting more pokemon.
+- Add more information per pokemon, like the sprite, height, weight, and signature move.
+- Style the page more to add color and logos.
+- Add a longer list of pokemon, the api limits the number pulled by default, but I could put more work into getting more pokemon.
 - Add ability to change how many pokemon display per page
 
 ## License
